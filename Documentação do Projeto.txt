@@ -1,0 +1,10 @@
+Tecnologias Utilizadas
+
+HTML5: Estruturação da aplicação e criação dos elementos de página.
+CSS3: Estilização visual da aplicação, incluindo responsividade e design.
+TypeScript (POO): Desenvolvimento utilizando programação orientada a objetos para aumentar a modularidade e reutilização de código.
+API REST (Weather API): Integração de dados de previsão do tempo, fornecendo informações em tempo real.
+Webpack: Empacotador de módulos JavaScript, responsável por otimizar e compilar os arquivos do projeto.
+Babel: Ferramenta para compatibilizar o código TypeScript para navegadores antigos.
+Git: Sistema de controle de versão para rastrear alterações e gerenciar o histórico do código.
+GitHub: Plataforma para hospedagem do código e colaboração.
