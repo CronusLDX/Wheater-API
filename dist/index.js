@@ -48,7 +48,7 @@ class Tempo {
     displayData(data) {
         this.cidade.innerHTML = `${data.name}`;
         this.temperatura.innerHTML = `${Math.floor(data.main.temp)}ºC`;
-        this.umidade.innerHTML = `${data.main.humidity}%`;
+        this.umidade.innerHTML = `Umidade ${data.main.humidity}%`;
         this.icone.src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`;
         this.tempo.innerHTML = `${data.weather[0].description}`;
     }
